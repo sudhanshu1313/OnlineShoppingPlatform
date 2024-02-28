@@ -17,4 +17,4 @@
 
 
 
-<h4>Live Demo :-  <a href="https://sudhanshu1313.github.io/Calculator/"> Online Shopping Platform</a> </h4>
+<h4>Live Demo :-  <a href="https://sudhanshu1313.github.io/OnlineShoppingPlatform/"> Online Shopping Platform</a> </h4>
