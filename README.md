@@ -14,10 +14,9 @@ This project is an online shopping platform built using HTML, CSS, and JavaScrip
 | CSS3
 | JavaScript
 
-![calculator](https://github.com/sudhanshu1313/Calculator/blob/main/calculator.png)
-<video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+<img src="https://github.com/sudhanshu1313/Calculator/blob/main/calculator.png" alt="calculator" width="300" height="300px">
+
+
 
 <h4>Live Demo <a href="https://sudhanshu1313.github.io/Calculator/">Online Shopping Platform</a> </h4>
