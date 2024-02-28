@@ -15,7 +15,7 @@ This project is an online shopping platform built using HTML, CSS, and JavaScrip
 | JavaScript
 
 
-<img src="https://github.com/sudhanshu1313/Calculator/blob/main/calculator.png" alt="calculator" width="300" height="300px">
+<img src="https://github.com/sudhanshu1313/Calculator/blob/main/OnlineShoppingPlatform.png" alt="calculator" width="300" height="300px">
 
 
 
