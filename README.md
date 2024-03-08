@@ -12,9 +12,8 @@
 | CSS3
 | JavaScript
 
-
-<img src="https://github.com/sudhanshu1313/OnlineShoppingPlatform/blob/main/OnlineShoppingPlatform.png" alt="Online Shopping Platform" width="300" height="300px">
-
-
-
 <h4>Live Demo :-  <a href="https://sudhanshu1313.github.io/OnlineShoppingPlatform/"> Online Shopping Platform</a> </h4>
+<img src="https://github.com/sudhanshu1313/OnlineShoppingPlatform/blob/main/OnlineShoppingPlatform.png" alt="Online Shopping Platform" width="300" height="300px">
+<h4>Image File </h4>
+<img src="" alt="Online Shopping Platform" width="300" height="250px">
+
